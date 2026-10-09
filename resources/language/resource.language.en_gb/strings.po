@@ -1,0 +1,48 @@
+# Kodi Media Center language file
+# Addon Name: RUTUBE
+# Addon id: plugin.video.rutube
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+
+msgctxt "#30001"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Categories"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Channel"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Next page"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Video is not available"
+msgstr ""
+
+msgctxt "#30007"
+msgid "RUTUBE is not responding"
+msgstr ""
+
+msgctxt "#30010"
+msgid "General"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Maximum resolution"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Search history"
+msgstr ""
+

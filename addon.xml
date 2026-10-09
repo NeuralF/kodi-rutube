@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.rutube" name="RUTUBE" version="1.0.0" provider-name="kodi-rutube">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="inputstream.adaptive" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">RUTUBE video: search, categories, channels</summary>
+    <description lang="en_GB">A small client for rutube.ru built on its public API. Search with history, browse categories, open an uploader's channel from the context menu. Plays HLS through InputStream Adaptive when it is installed.</description>
+    <summary lang="ru_RU">Видео RUTUBE: поиск, категории, каналы</summary>
+    <description lang="ru_RU">Небольшой клиент rutube.ru на публичном API. Поиск с историей, категории, канал автора из контекстного меню. Воспроизведение HLS через InputStream Adaptive, если он установлен.</description>
+    <disclaimer lang="en_GB">Not affiliated with RUTUBE. Content is streamed from rutube.ru.</disclaimer>
+    <license>MIT</license>
+    <platform>all</platform>
+    <source>https://github.com/NeuralF/kodi-rutube</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
